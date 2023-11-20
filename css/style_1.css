@@ -1,0 +1,19 @@
+.nav_1 {
+    background: #3ca010;
+}
+.nav-1 li {
+    display: inline-block;
+}
+.nav_1 li a {
+    display: block;
+    padding: 10px;
+    border-right: 1px solid #1e4e09;
+}
+.nav_1 li a:hover {
+    background: #77dd4a;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
